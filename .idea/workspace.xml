@@ -83,232 +83,13 @@
       <change afterPath="$PROJECT_DIR$/../java/src/main/java/cn/edu/ahtcm/base64/img.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../java/src/main/java/cn/edu/ahtcm/commons/LangTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_62.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_stoyanr_evictor_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_10_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_31.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_31.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_31.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_12_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_1_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_loadbalancer_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_loadbalancer_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/common/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/common/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/common/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/common/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/common.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/common/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/common/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
@@ -318,18 +99,10 @@
       <change afterPath="$PROJECT_DIR$/common/src/main/java/cn/edu/ahtcm/common/entity/User.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/common/src/main/resources/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/common/src/test/java/cn/edu/ahtcm/common/CommonApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/target/classes/cn/edu/ahtcm/common/dao/RoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/target/classes/cn/edu/ahtcm/common/dao/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/target/classes/cn/edu/ahtcm/common/entity/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/target/classes/cn/edu/ahtcm/common/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/target/test-classes/cn/edu/ahtcm/common/CommonApplicationTests.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-role-service/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-role-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-role-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-role-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-role-service/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-role-service/eureka-role-service.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-role-service/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-role-service/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-role-service/pom.xml" afterDir="false" />
@@ -340,39 +113,16 @@
       <change afterPath="$PROJECT_DIR$/eureka-role-service/src/main/java/cn/edu/ahtcm/eurekaroleservice/service/impl/RoleServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-role-service/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-role-service/src/test/java/cn/edu/ahtcm/eurekaroleservice/EurekaRoleServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-role-service/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-role-service/target/classes/cn/edu/ahtcm/eurekaroleservice/EurekaRoleServiceApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-role-service/target/classes/cn/edu/ahtcm/eurekaroleservice/configurg/SpringConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-role-service/target/classes/cn/edu/ahtcm/eurekaroleservice/controller/RoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-role-service/target/classes/cn/edu/ahtcm/eurekaroleservice/service/RoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-role-service/target/classes/cn/edu/ahtcm/eurekaroleservice/service/impl/RoleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-role-service/target/test-classes/cn/edu/ahtcm/eurekaroleservice/EurekaRoleServiceApplicationTests.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-server/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/eureka-server.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-server/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-server/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-server/src/main/java/cn/edu/ahtcm/eurekaserver/EurekaServerApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-server/src/test/java/cn/edu/ahtcm/eurekaserver/EurekaServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/target/classes/cn/edu/ahtcm/eurekaserver/EurekaServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/target/test-classes/cn/edu/ahtcm/eurekaserver/EurekaServerApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/eureka-user-feign-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/src/main/java/cn/edu/ahtcm/eurekauserfeignservice/EurekaUserFeignServiceApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/src/main/java/cn/edu/ahtcm/eurekauserfeignservice/configurg/SpringConfig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/src/main/java/cn/edu/ahtcm/eurekauserfeignservice/controller/UserController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/src/main/java/cn/edu/ahtcm/eurekauserfeignservice/mservice/RoleService.java" afterDir="false" />
@@ -380,23 +130,10 @@
       <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/src/main/java/cn/edu/ahtcm/eurekauserfeignservice/service/UserService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/src/main/java/cn/edu/ahtcm/eurekauserfeignservice/service/impl/UserServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/src/test/java/cn/edu/ahtcm/eurekauserfeignservice/EurekaUserFeignServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/target/classes/cn/edu/ahtcm/eurekauserfeignservice/EurekaUserFeignServiceApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/target/classes/cn/edu/ahtcm/eurekauserfeignservice/configurg/SpringConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/target/classes/cn/edu/ahtcm/eurekauserfeignservice/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/target/classes/cn/edu/ahtcm/eurekauserfeignservice/mservice/RoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/target/classes/cn/edu/ahtcm/eurekauserfeignservice/mservice/fb/RoleServiceFB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/target/classes/cn/edu/ahtcm/eurekauserfeignservice/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/target/classes/cn/edu/ahtcm/eurekauserfeignservice/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-feign-service/target/test-classes/cn/edu/ahtcm/eurekauserfeignservice/EurekaUserFeignServiceApplicationTests.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/eureka-user-hystrix-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/eureka-user-service.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/pom.xml" afterDir="false" />
@@ -407,22 +144,10 @@
       <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/src/main/java/cn/edu/ahtcm/eurekauserservice/service/impl/UserServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/src/test/java/cn/edu/ahtcm/eurekauserservice/EurekaUserHystrixServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/target/classes/META-INF/eureka-user-service.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/target/classes/cn/edu/ahtcm/eurekauserservice/EurekaUserHystrixServiceApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/target/classes/cn/edu/ahtcm/eurekauserservice/EurekaUserServiceApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/target/classes/cn/edu/ahtcm/eurekauserservice/configurg/SpringConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/target/classes/cn/edu/ahtcm/eurekauserservice/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/target/classes/cn/edu/ahtcm/eurekauserservice/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/target/classes/cn/edu/ahtcm/eurekauserservice/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/target/test-classes/cn/edu/ahtcm/eurekauserservice/EurekaUserHystrixServiceApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-hystrix-service/target/test-classes/cn/edu/ahtcm/eurekauserservice/EurekaUserServiceApplicationTests.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-service/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-service/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-service/eureka-user-service.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-service/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-service/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-service/pom.xml" afterDir="false" />
@@ -433,28 +158,7 @@
       <change afterPath="$PROJECT_DIR$/eureka-user-service/src/main/java/cn/edu/ahtcm/eurekauserservice/service/impl/UserServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-service/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka-user-service/src/test/java/cn/edu/ahtcm/eurekauserservice/EurekaUserServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-service/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-service/target/classes/cn/edu/ahtcm/eurekauserservice/EurekaUserServiceApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-service/target/classes/cn/edu/ahtcm/eurekauserservice/configurg/SpringConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-service/target/classes/cn/edu/ahtcm/eurekauserservice/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-service/target/classes/cn/edu/ahtcm/eurekauserservice/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-service/target/classes/cn/edu/ahtcm/eurekauserservice/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-user-service/target/test-classes/cn/edu/ahtcm/eurekauserservice/EurekaUserServiceApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/src/main/java/cn/edu/ahtcm/hystrixdashboard/HystrixDashboardApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hystrix-dashboard/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/src/test/java/cn/edu/ahtcm/hystrixdashboard/HystrixDashboardApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/target/classes/cn/edu/ahtcm/hystrixdashboard/HystrixDashboardApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/target/test-classes/cn/edu/ahtcm/hystrixdashboard/HystrixDashboardApplicationTests.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
@@ -462,11 +166,9 @@
       <change afterPath="$PROJECT_DIR$/role-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/role-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/role-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/role-service/HELP.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/role-service/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/role-service/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/role-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/role-service/role-service.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/role-service/src/main/java/cn/edu/ahtcm/roleservice/RoleServiceApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/role-service/src/main/java/cn/edu/ahtcm/roleservice/controller/RoleController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/role-service/src/main/java/cn/edu/ahtcm/roleservice/dao/RoleMapper.java" afterDir="false" />
@@ -475,26 +177,13 @@
       <change afterPath="$PROJECT_DIR$/role-service/src/main/java/cn/edu/ahtcm/roleservice/service/impl/RoleServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/role-service/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/role-service/src/test/java/cn/edu/ahtcm/roleservice/RoleServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/role-service/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/role-service/target/classes/cn/edu/ahtcm/roleservice/RoleServiceApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/role-service/target/classes/cn/edu/ahtcm/roleservice/controller/RoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/role-service/target/classes/cn/edu/ahtcm/roleservice/dao/RoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/role-service/target/classes/cn/edu/ahtcm/roleservice/entity/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/role-service/target/classes/cn/edu/ahtcm/roleservice/service/RoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/role-service/target/classes/cn/edu/ahtcm/roleservice/service/impl/RoleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/role-service/target/test-classes/cn/edu/ahtcm/roleservice/RoleServiceApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/cn/edu/ahtcm/springcloud/SpringCloudApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/cn/edu/ahtcm/springcloud/SpringCloudApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cn/edu/ahtcm/springcloud/SpringCloudApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/cn/edu/ahtcm/springcloud/SpringCloudApplicationTests.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/user-service/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/user-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/user-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/user-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/HELP.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/user-service/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/user-service/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/user-service/pom.xml" afterDir="false" />
@@ -507,36 +196,9 @@
       <change afterPath="$PROJECT_DIR$/user-service/src/main/java/cn/edu/ahtcm/userservice/service/impl/UserServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/user-service/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/user-service/src/test/java/cn/edu/ahtcm/userservice/UserServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/target/classes/cn/edu/ahtcm/userservice/UserServiceApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/target/classes/cn/edu/ahtcm/userservice/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/target/classes/cn/edu/ahtcm/userservice/dao/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/target/classes/cn/edu/ahtcm/userservice/entity/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/target/classes/cn/edu/ahtcm/userservice/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/target/classes/cn/edu/ahtcm/userservice/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/target/classes/cn/edu/ahtcm/userservice/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/target/test-classes/cn/edu/ahtcm/userservice/UserServiceApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/user-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/src/main/java/cn/edu/ahtcm/zuul/ZuulApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/zuul/src/main/java/cn/edu/ahtcm/zuul/fb/ServiceFB.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/zuul/src/main/java/cn/edu/ahtcm/zuul/filter/AccessFilter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/zuul/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/src/test/java/cn/edu/ahtcm/zuul/ZuulApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/target/classes/cn/edu/ahtcm/zuul/ZuulApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/target/classes/cn/edu/ahtcm/zuul/fb/ServiceFB$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/target/classes/cn/edu/ahtcm/zuul/fb/ServiceFB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/target/classes/cn/edu/ahtcm/zuul/filter/AccessFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/target/test-classes/cn/edu/ahtcm/zuul/ZuulApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/zuul.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springboot-example/mybatis-plus/src/main/java/cn/edu/ahtcm/dao/UserMapper.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springboot-example/mybatis-plus/src/main/java/cn/edu/ahtcm/entity/User.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springboot-example/mybatis-plus/src/main/resources/generatorConfig.xml" afterDir="false" />
@@ -593,6 +255,10 @@
       <change afterPath="$PROJECT_DIR$/../webpp/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../webpp/web/WEB-INF/web.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../webpp/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-user-feign-service/eureka-user-feign-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-user-feign-service/eureka-user-feign-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/role-service/src/main/java/cn/edu/ahtcm/roleservice/entity/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/role-service/src/main/java/cn/edu/ahtcm/roleservice/entity/Role.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -848,12 +514,24 @@
       <workItem from="1582876178592" duration="19085000" />
       <workItem from="1583324147506" duration="3739000" />
       <workItem from="1583377778711" duration="3168000" />
-      <workItem from="1583380977696" duration="21383000" />
+      <workItem from="1583380977696" duration="22125000" />
     </task>
+    <task id="LOCAL-00001" summary="springcloud学习">
+      <created>1583412117687</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583412117687</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="springcloud学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="springcloud学习" />
   </component>
   <component name="WindowStateProjectService">
     <state x="462" y="100" key="#Project_Structure" timestamp="1582885330277">
@@ -880,10 +558,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583379818301" />
-    <state x="428" y="51" key="CommitChangelistDialog2" timestamp="1583411771846">
+    <state x="428" y="51" key="CommitChangelistDialog2" timestamp="1583412753400">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="428" y="51" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583411771846" />
+    <state x="428" y="51" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583412753400" />
     <state x="110" y="109" width="1720" height="840" key="DiffContextDialog" timestamp="1582890062867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -892,6 +570,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="700" y="206" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583411797839" />
+    <state x="807" y="392" width="666" height="273" key="Github.ShareDialog" timestamp="1583412280143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="807" y="392" width="666" height="273" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583412280143" />
     <state width="1850" height="238" key="GridCell.Tab.0.bottom" timestamp="1583408701000">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
