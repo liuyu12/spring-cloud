@@ -1,0 +1,106 @@
+server:
+  port: 8005
+spring:
+  application:
+    name: role-service
+  profiles: role-service0
+## 数据库 配置
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/springboot_example?useUnicode=true&characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2b8
+    username: root
+    password: root
+    type: com.alibaba.druid.pool.DruidDataSource
+  # jpa配置
+  jpa:
+    database: MySQL
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+# eureka
+eureka:
+  instance:
+    hostname: 127.0.0.1
+    #prefer-ip-address: true  # 通过ip注册
+    instance-id: ${eureka.instance.hostname}:${server.port}
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    serviceUrl:
+      defaultZone: http://localhost:8003/eureka/
+  server:
+    enable-self-preservation: false
+    eviction-interval-timer-in-ms: 2000
+
+---
+server:
+  port: 8300
+spring:
+  application:
+    name: role-service
+  profiles: role-service1
+  ## 数据库 配置
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/springboot_example?useUnicode=true&characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2b8
+    username: root
+    password: root
+    type: com.alibaba.druid.pool.DruidDataSource
+  # jpa配置
+  jpa:
+    database: MySQL
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+# eureka
+eureka:
+  instance:
+    hostname: 127.0.0.1
+    #prefer-ip-address: true  # 通过ip注册
+    instance-id: ${eureka.instance.hostname}:${server.port}
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    serviceUrl:
+      defaultZone: http://localhost:8100/eureka/,http://localhost:8101/eureka/
+  server:
+    enable-self-preservation: false
+    eviction-interval-timer-in-ms: 2000
+---
+server:
+  port: 8301
+spring:
+  application:
+    name: role-service
+  profiles: role-service2
+  ## 数据库 配置
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/springboot_example?useUnicode=true&characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2b8
+    username: root
+    password: root
+    type: com.alibaba.druid.pool.DruidDataSource
+  # jpa配置
+  jpa:
+    database: MySQL
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+# eureka
+eureka:
+  instance:
+    hostname: 127.0.0.1
+    #prefer-ip-address: true  # 通过ip注册
+    instance-id: ${eureka.instance.hostname}:${server.port}
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    serviceUrl:
+      defaultZone: http://localhost:8100/eureka/,http://localhost:8101/eureka/
+  server:
+    enable-self-preservation: false
+    eviction-interval-timer-in-ms: 2000
+
