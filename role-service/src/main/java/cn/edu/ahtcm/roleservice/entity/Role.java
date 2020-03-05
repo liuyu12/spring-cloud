@@ -117,7 +117,7 @@ public class Role {
     /**
      * 获取创建时间
      *
-     * @return create_time - 创建时间
+     * @return create_time - 创建时间1111
      */
     public Date getCreateTime() {
         return createTime;
@@ -135,7 +135,7 @@ public class Role {
     /**
      * 获取更新时间
      *
-     * @return update_time - 更新时间
+     * @return update_time - 更新时间1111111
      */
     public Date getUpdateTime() {
         return updateTime;
