@@ -13,8 +13,9 @@ public class RoleController {
     @Resource
     private RoleService roleService;
 
+
     @GetMapping("listRoles")
-    public List<Role> listUserRoles(int id){
+    public List<Role> listUserRoles(int id) {
         return roleService.findUserRoles(id);
     }
 
