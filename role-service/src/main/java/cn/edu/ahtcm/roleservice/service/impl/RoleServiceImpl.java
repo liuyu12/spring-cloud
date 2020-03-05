@@ -16,7 +16,6 @@ public class RoleServiceImpl implements RoleService {
 
     @Override
     public List<Role> findUserRoles(int uid) {
-
         return roleMapper.listUserRoles(uid);
     }
 }
